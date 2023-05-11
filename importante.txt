@@ -1,0 +1,25 @@
+//docker run  -p 6379:6379 --name some-rediss1 -d  redis
+
+docker run -d --reddislatestt redis-stack-server -p 6379:6379 redis/redis-stack-server:latest
+
+npm i redis 
+
+npm i express
+
+npm i nodemon
+
+ npm i axios
+
+ npm i response-time
+
+
+ #herramienta redis
+ npm i -g redis-comander
+ redis-commander -> execute in the terminal
+
+
+https://www.npmjs.com/package/redis-commander?activeTab=readme
+
+
+install extension rest client en visual studio
+
